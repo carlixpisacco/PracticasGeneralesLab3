@@ -1,0 +1,43 @@
+.small-input{
+  padding: 1rem; /* Espacio interno más pequeño */
+  height: 1rem;
+  width: 350px; /* Ancho del input */
+  margin-left: 15px;
+  }
+
+  .mb-3{
+    margin:4px 4px 0px 4px;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .small-label{
+    font-size: 1rem;
+    font-weight: bold ;
+    margin:5px;
+  }
+
+  .button{
+      background-color: #7975dc; 
+      color: white; 
+      border: none;
+      padding: 5px 18px;
+      text-align: center;
+      font-size: 16px;
+      margin: 0px 8px;
+      cursor: pointer;
+      border-radius: 10px; 
+  }
+
+  .button-mostrar{
+    background-color: #413bf8; 
+      color: white; 
+      border: none;
+      padding: 5px 18px;
+      text-align: center;
+      font-size: 16px;
+      margin: 10px 8px;
+      cursor: pointer;
+      border-radius: 10px; 
+  }
+
